@@ -31,3 +31,4 @@
 9. https://www.youtube.com/watch?v=V7CY68zH6ps
 10. https://www.youtube.com/watch?v=sVPm7zOrBxM
 11. https://www.classcentral.com/classroom/youtube-cs885-imitation-learning-142565/641151addfe33
+12. https://rail.eecs.berkeley.edu/deeprlcourse/
