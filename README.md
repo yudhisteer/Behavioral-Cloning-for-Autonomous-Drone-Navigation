@@ -9,9 +9,9 @@
 ## Plan of Action
 1. Imitation Learning
 2. Behavioral Cloning
-3. Making of World
-4. Training
-5. Evaluation
+3. Dataset Collection and Preparation
+4. Model Architecture and Training
+5. Evaluation and Testing
 
 
 ----------------------
