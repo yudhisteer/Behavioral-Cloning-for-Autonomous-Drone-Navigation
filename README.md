@@ -36,3 +36,4 @@
 14. https://web.stanford.edu/class/cs234/CS234Win2019/slides/lnotes7.pdf
 15. https://www.youtube.com/watch?v=hNsP6-K3Hn4
 16. https://arxiv.org/abs/1211.1690
+17. https://www.cs.toronto.edu/~florian/courses/imitation_learning/lectures/Lecture1.pdf
