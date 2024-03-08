@@ -37,3 +37,5 @@
 15. https://www.youtube.com/watch?v=hNsP6-K3Hn4
 16. https://arxiv.org/abs/1211.1690
 17. https://www.cs.toronto.edu/~florian/courses/imitation_learning/lectures/Lecture1.pdf
+18. https://www.youtube.com/watch?v=u9ZCxxD-UUw
+19. https://arxiv.org/pdf/1912.12294.pdf
