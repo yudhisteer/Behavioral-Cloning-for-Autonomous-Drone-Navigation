@@ -1,4 +1,4 @@
-# Behavioral-Cloning-for-Autonomous-Drone-Navigation
+# Cross-domain Behavioral Policy Transfer for End-to-End Autonomous Navigation
 
 ## Abstract
 
