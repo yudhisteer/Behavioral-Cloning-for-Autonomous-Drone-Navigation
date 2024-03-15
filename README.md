@@ -9,9 +9,11 @@
 ## Plan of Action
 1. Imitation Learning
 2. Behavioral Cloning
-3. Dataset Collection and Preparation
-4. Model Architecture and Training
-5. Evaluation and Testing
+      - Compounding Errors
+      - DAgger
+4. Dataset Collection and Preparation
+5. Model Architecture and Training
+6. Evaluation and Testing
 
 
 ----------------------
