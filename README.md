@@ -42,3 +42,4 @@
 18. https://www.youtube.com/watch?v=u9ZCxxD-UUw
 19. https://arxiv.org/pdf/1912.12294.pdf
 20. https://cs224r.stanford.edu/slides/cs224r_imitation.pdf
+21. https://rail.eecs.berkeley.edu/deeprlcourse/deeprlcourse/static/slides/lec-2.pdf
