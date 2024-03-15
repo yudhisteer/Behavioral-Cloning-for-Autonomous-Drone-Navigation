@@ -7,7 +7,7 @@
 
 
 ## Plan of Action
-1. Imitation Learning
+1. Imitation Learning is All You Need
 2. Behavioral Cloning
       - Compounding Errors
       - DAgger
